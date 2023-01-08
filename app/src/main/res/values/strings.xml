@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Check Intenet</string>
+    <string name="message_description_successufull">Intenert disponoble</string>
+    <string name="message_description_error">No hay Intenert </string>
+    <string name="message_wifi_not_connection">Wifi no conectado </string>
+    <string name="status_wifi">EXITOSO!!</string>
+    <string name="status_ERROR">ERROR!!</string>
+</resources>
