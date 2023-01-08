@@ -15,6 +15,6 @@ Checking internet connection
 
 
 
-<img src="preview.png" alt="" width="700">
+<img src="preview.png" alt="" width="400">
 
 
